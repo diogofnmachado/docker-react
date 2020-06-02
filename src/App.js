@@ -12,12 +12,16 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="http://byne.com.br"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          learn react
         </a>
+        <p>
+          Sexta-feira, 29 de maio de 2020.
+          Tubarão / SC / Brasil.
+        </p>
       </header>
     </div>
   );
