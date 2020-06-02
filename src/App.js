@@ -22,6 +22,7 @@ function App() {
           Sexta-feira, 29 de maio de 2020.
           Tubarão / SC / Brasil.
         </p>
+        <p>Terra</p>
       </header>
     </div>
   );
